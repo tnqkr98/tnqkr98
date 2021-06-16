@@ -1,4 +1,4 @@
-## Software Engineer at NYX inc (Heathcare Start-up)
+## Software Engineer at NYX inc (Healthcare Start-up)
 * CTO (Software Area in NYX)
 * Android Native Application Development
 * Sleep Analysis AI Research Project Management (Collaborate with Samsung Medical Center)
