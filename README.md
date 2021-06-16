@@ -35,7 +35,7 @@ I'm very interested in a variety of new technologies !!
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/> 
 
 
-#### Algorithm ✨
+#### Algorithm 💖
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr98)](https://solved.ac/profile/tnqkr98/)
 
 
