@@ -3,7 +3,7 @@
 * Android Native Application Development
 * Sleep Analysis AI Research Project Management (Collaborate with Samsung Medical Center)
 * Application Server Development
-* System Integration (App Server + Database)
+* System Integration (App Server, Database)
 
 
 
