@@ -5,8 +5,7 @@
 * Application Server Development
 * System Integration (App Server, Database)
 
-
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/donghan-park-9251a9206/)](https://www.linkedin.com/in/donghan-park-9251a9206/)
 
 ## Stack
 ### Main (Android Development)
