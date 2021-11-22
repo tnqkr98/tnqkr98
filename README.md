@@ -1,7 +1,7 @@
 
-## Currently working on..
+## Currently working on
 <p align="center">
-  <img width="25%" src="https://user-images.githubusercontent.com/48381543/142892244-4386398c-94b1-4c83-86a0-605a95a34ad1.gif"/>       <img width="25%" src="https://user-images.githubusercontent.com/48381543/142892267-2399da97-d63d-4123-b53b-eb64287ed6c6.gif"/>
+  <img width="20%" src="https://user-images.githubusercontent.com/48381543/142892244-4386398c-94b1-4c83-86a0-605a95a34ad1.gif"/>       <img width="20%" src="https://user-images.githubusercontent.com/48381543/142892267-2399da97-d63d-4123-b53b-eb64287ed6c6.gif"/>
 </p> 
 
 
