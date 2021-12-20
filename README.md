@@ -48,7 +48,7 @@ I'm interested in a variety of new technologies !!
 
 #### Algorithm 💖
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr98)](https://solved.ac/profile/tnqkr98/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqkr98&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqkr98&langs_count=8&layout=compact&theme=dark)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnqkr98%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <!--
