@@ -16,10 +16,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/donghan-park-9251a9206/)](https://www.linkedin.com/in/donghan-park-9251a9206/)
 
 ## Stack
-### Main (Android Development)
+### Main (Mobile Development)
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Material Design-757575?style=flat-square&logo=MaterialDesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Material Design-757575?style=flat-square&logo=MaterialDesign&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 
 
 ### Sub (Server & AI)
@@ -37,7 +37,7 @@
 
 I'm interested in a variety of new technologies !!
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
 
