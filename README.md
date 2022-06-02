@@ -1,7 +1,7 @@
 
 ## Currently working on .. ⚡
 <p align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/48381543/142892244-4386398c-94b1-4c83-86a0-605a95a34ad1.gif"/><img width="30%" src="https://user-images.githubusercontent.com/48381543/142892267-2399da97-d63d-4123-b53b-eb64287ed6c6.gif"/>
+<img width="20%" src="https://user-images.githubusercontent.com/48381543/142892244-4386398c-94b1-4c83-86a0-605a95a34ad1.gif"/><img width="20%" src="https://user-images.githubusercontent.com/48381543/142892267-2399da97-d63d-4123-b53b-eb64287ed6c6.gif"/>
 </p> 
 
 <p align="center"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></p>
