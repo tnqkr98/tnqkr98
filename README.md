@@ -33,19 +33,6 @@
 
 
 
-## Interest & Studying ⚡
-
-I'm interested in a variety of new technologies !!
-
-<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=Hyperledger&logoColor=white"/> 
-
-
 #### Algorithm 💖
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnqkr98)](https://solved.ac/profile/tnqkr98/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnqkr98&langs_count=8&layout=compact&theme=dark)
